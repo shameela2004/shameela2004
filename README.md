@@ -89,7 +89,7 @@ I focus on clean architecture, maintainable code, and real-world solutions.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shameela2004&theme=github-dark" />
 </p>
 
 ---
