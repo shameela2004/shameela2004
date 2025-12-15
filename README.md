@@ -88,9 +88,9 @@ I focus on clean architecture, maintainable code, and real-world solutions.
   <img src="https://github-readme-stats.vercel.app/api?username=shameela2004&show_icons=true&theme=github_dark" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?username=shameela2004&theme=github-dark" />
-</p>
+</p> -->
 
 ---
 
