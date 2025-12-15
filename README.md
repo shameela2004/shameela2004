@@ -3,11 +3,12 @@
 <div align="center">
 
 <h1>Hi 👋, I'm <span style="color:#58a6ff">Shameela</span></h1>
-<h3>Backend Developer • ASP.NET Core • Web API • EF Core</h3>
+<h3>Full Stack Developer • React • ASP.NET Core • Web API</h3>
 
 <p>
-I build scalable backend systems, care about clean architecture,
-and love turning complex logic into simple, maintainable code.
+I build complete web applications — from responsive user interfaces
+using React to scalable backend APIs with ASP.NET Core.
+I focus on clean architecture, maintainable code, and real-world solutions.
 </p>
 
 <a href="https://in.linkedin.com/in/fathima-shameela-pp/" target="_blank">
@@ -16,7 +17,7 @@ and love turning complex logic into simple, maintainable code.
 <a href="mailto:fathimashameela2025@email.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="#">
+<a href="https://github.com/shameela2004/Portfolio">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -26,15 +27,22 @@ and love turning complex logic into simple, maintainable code.
 
 ## 🚀 About Me
 
-* 🔹 Backend-focused developer with real-world project experience
-* 🔹 Strong interest in **Clean Architecture & CQRS**
-* 🔹 I value readable, testable, and scalable code
-* 🔹 Comfortable working in **team & group projects**
-* 🔹 Learning continuously through building, breaking, and fixing
+* 🔹 Full Stack Developer with hands-on experience in **React + ASP.NET Core**
+* 🔹 Build end-to-end applications: UI → API → Database
+* 🔹 Strong interest in **Clean Architecture, CQRS, and best practices**
+* 🔹 Enjoy working on **team-based and collaborative projects**
+* 🔹 Believe in learning by building, debugging, and improving
 
 ---
 
 ## 🧠 Tech Stack
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 
 ### 💻 Backend
 
@@ -57,18 +65,18 @@ and love turning complex logic into simple, maintainable code.
 
 ## 🌱 Currently Learning
 
-* Advanced ASP.NET Core internals
+* Advanced React patterns
 * CQRS with MediatR
-* API Security (JWT, Authorization)
-* Performance optimization in EF Core
+* API security (JWT, role-based auth)
+* Performance optimization across frontend & backend
 
 ---
 
 ## 📌 Featured Projects
 
-🔹 **Clean Architecture API** – Layered ASP.NET Core backend
-🔹 **Group Project Backend** – Real-world collaboration & Git flow
-🔹 **Learning Repositories** – EF Core, API patterns, best practices
+🔹 **Full Stack Web Applications** (React + ASP.NET Core)
+🔹 **Clean Architecture APIs**
+🔹 **Group & Team Projects** using Git flow
 
 👉 *Check out my pinned repositories below*
 
@@ -77,7 +85,7 @@ and love turning complex logic into simple, maintainable code.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shameela2004&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
@@ -88,9 +96,9 @@ and love turning complex logic into simple, maintainable code.
 
 ## ✨ Philosophy
 
-> "Consistency beats talent when talent doesn’t stay consistent."
+> "Build end-to-end. Learn continuously. Improve every day."
 
-I believe great developers are built through **practice, patience, and curiosity**.
+I believe strong developers understand the **whole system**, not just one layer.
 
 ---
 
