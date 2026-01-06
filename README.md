@@ -85,10 +85,11 @@ I focus on clean architecture, maintainable code, and real-world solutions.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=shameela2004&show_icons=true&theme=github_dark" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shameela2004&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
+
+![Shameela's GitHub stats](https://github-readme-stats.vercel.app/api?username=shameela2004&show_icons=true&theme=github_dark&hide_border=true)
 
 </p>
+
 
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?username=shameela2004&theme=github-dark" />
