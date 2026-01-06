@@ -86,9 +86,10 @@ I focus on clean architecture, maintainable code, and real-world solutions.
 
 <p align="center">
 
-![Shameela's GitHub stats](https://github-readme-stats.vercel.app/api?username=shameela2004&show_icons=true&theme=github_dark&hide_border=true)
+![Shameela's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=shameela2004&show_icons=true&theme=github_dark&hide_border=true)
 
 </p>
+
 
 
 <!-- <p align="center">
